@@ -503,4 +503,4 @@ Here t1 is the sum of even numbers just before the number n and t2 is the sum of
 * The task is all about linux terminal commands.
 
 * View **[passwords](https://github.com/portus2001/amfoss-tasks/blob/master/task-14/Bandit%20game%20passwords.md)** for Bandit.
-
+# Tasks-description
